@@ -9,9 +9,11 @@
     height: 100px;
     background-size: cover;
 }
-
-.navy {
+.green {
     color:#355E3B;
+}
+.navy {
+    color: blue;
 }
 /*
 Classes to handle buttons
