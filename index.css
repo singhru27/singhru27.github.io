@@ -3,6 +3,13 @@
     font-family:"Open Sans", sans-serif;
 }
 
+.img {
+    float: left;
+    width:  100px;
+    height: 100px;
+    background-size: cover;
+}
+
 .navy {
     color: #0000CC;
 }
